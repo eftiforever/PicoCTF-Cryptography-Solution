@@ -44,7 +44,7 @@ m = pow(c, d, n)        # c^d mod n
 print(long_to_bytes(m))
 
 ```
-## 
 ### flag : ~~picoCTF{sma11_N_n0_g0od_00264570}~~ 
 <br>
-_Note :_ Don't copy it try yourself.
+
+_Note:_ Don't copy it try yourself.
